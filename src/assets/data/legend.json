@@ -1,0 +1,26 @@
+[
+  {
+    "group_id": 0,
+    "color": "#715B56",
+    "text": "Подразделение 1",
+    "counter": 4
+  },
+  {
+    "group_id": 1,
+    "color": "#CF767A",
+    "text": "Подразделение 2",
+    "counter": 3
+  },
+  {
+    "group_id": 2,
+    "color": "#758B66",
+    "text": "Подразделение 3",
+    "counter": 3
+  },
+  {
+    "group_id": 3,
+    "color": "#C3C88A",
+    "text": "Подразделение 4",
+    "counter": 3
+  }
+]
